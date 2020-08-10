@@ -1,0 +1,36 @@
+[{
+    "user_id": 1,
+    "first_name": "Dukuze",
+    "last_name": "Dominica",
+    "email": "dominica@gmail.com",
+    "password": "1234password"
+  },
+  {
+    "user_id": 2,
+    "first_name": "Kami",
+    "last_name": "Kazi",
+    "email": "kami@gmail.com",
+    "password": "1234password"
+  },
+  {
+    "user_id": 3,
+    "first_name": "Mwila",
+    "last_name": "Peter",
+    "email": "peter@gmail.com",
+    "password": "1234password"
+  },
+  {
+    "user_id": 4,
+    "first_name": "Jean",
+    "last_name": "Paul",
+    "email": "paul@gmail.com",
+    "password": "1234password"
+  },
+  {
+    "user_id": 5,
+    "first_name": "Kaze",
+    "last_name": "Iwacu",
+    "email": "uwacu@gmail.com",
+    "password": "1234password"
+  }
+]
